@@ -130,7 +130,7 @@ We welcome contributions from the community! If you'd like to contribute to Even
 
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/Sujan-Koirala021/ex-con-thrive.git
+   git clone https://github.com/daytonaio/sample-react-job-assistant
    ```
 
 3. **Create a Branch**:
