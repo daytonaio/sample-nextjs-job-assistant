@@ -89,7 +89,7 @@ The Ex-Cons Thrive project aims to address these challenges by providing a perso
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
 2. **Create the Workspace**:  
    ```bash  
-   daytona create https://github.com/Sujan-Koirala021/ex-con-thrive-daytona.git
+   daytona create https://github.com/daytonaio/sample-react-job-assistant
    ```
 2. **Make sure that port 5173 is added as the forward port.**:  
 3. **Set up the environment variables by creating a **.env** file in the root directory and add your groq api**:
