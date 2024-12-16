@@ -1,0 +1,12 @@
+{
+    "name": "React Dev Container",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+    "features": {
+      "python": "3.10"
+    },
+    "forwardPorts": [
+      5173
+    ],
+    "postCreateCommand": "npm install"
+  }
+  
